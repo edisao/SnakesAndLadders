@@ -1,0 +1,12 @@
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\bin\Debug\net6.0\Application.deps.json
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\bin\Debug\net6.0\Application.dll
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\bin\Debug\net6.0\Application.pdb
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.dll
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\refint\Application.dll
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\Application.pdb
+C:\dev\Bayteq.SnakesAndLaddersGame\Application\obj\Debug\net6.0\ref\Application.dll

@@ -1,0 +1,92 @@
+{
+  "nombre": "tablero",
+  "totalSaltos": 100,
+  "snakes": [
+    {
+      "startSnakes": 62,
+      "endSnakes": 19
+    },
+    {
+      "startSnakes": 16,
+      "endSnakes": 6
+    },
+    {
+      "startSnakes": 46,
+      "endSnakes": 25
+    },
+    {
+      "startSnakes": 64,
+      "endSnakes": 60
+    },
+    {
+      "startSnakes": 99,
+      "endSnakes": 80
+    },
+    {
+      "startSnakes": 49,
+      "endSnakes": 11
+    },
+    {
+      "startSnakes": 74,
+      "endSnakes": 53
+    },
+    {
+      "startSnakes": 89,
+      "endSnakes": 68
+    },
+    {
+      "startSnakes": 92,
+      "endSnakes": 88
+    },
+    {
+      "startSnakes": 95,
+      "endSnakes": 75
+    }
+  ],
+  "ladders": [
+    {
+      "startLadder": 2,
+      "endLadder": 38
+    },
+    {
+      "startLadder": 7,
+      "endLadder": 14
+    },
+    {
+      "startLadder": 8,
+      "endLadder": 31
+    },
+    {
+      "startLadder": 15,
+      "endLadder": 26
+    },
+    {
+      "startLadder": 21,
+      "endLadder": 42
+    },
+    {
+      "startLadder": 36,
+      "endLadder": 44
+    },
+    {
+      "startLadder": 51,
+      "endLadder": 67
+    },
+    {
+      "startLadder": 71,
+      "endLadder": 91
+    },
+    {
+      "startLadder": 87,
+      "endLadder": 94
+    },
+    {
+      "startLadder": 78,
+      "endLadder": 98
+    },
+    {
+      "startLadder": 28,
+      "endLadder": 84
+    }
+  ]
+}
